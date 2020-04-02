@@ -1,14 +1,14 @@
 ﻿l_english:
 ### Opinion Modifiers ###
- raided_us_modifier:0 "Filthy Raiders"
- RUS_trade:0 "Russian Trade"
- RUS_recognition:0 "Russian Recognition"
- RUS_urals_partitioned:0 "Partition Partners"
- RUS_urals_seized:0 "Took the Urals"
+ raided_us_modifier:0 "더러운 약탈자들"
+ RUS_trade:0 "러시아 무역"
+ RUS_recognition:0 "러시아 재인식"
+ RUS_urals_partitioned:0 "분열된 동지들"
+ RUS_urals_seized:0 "우랄을 되찾다"
  
 ### Country Tags ###
- russia_raid_succeeded:0 "Successful Raid"
- russia_raid_failed:0 "Failed Raid"
+ russia_raid_succeeded:0 "성공 습격"
+ russia_raid_failed:0 "습격 실패"
  using_loot:0 "Currently using loot"
 
 #Scripted Loc Workaround
@@ -34,22 +34,22 @@
  
 ### Decision Categories ###
  #Raiding
- russian_raiding_category:0 "Raiding and Loot"
- russian_raiding_category_desc:0 "Raiding is sadly a part of daily life in Russia, and as much as we hate to admit it, it's one of our few means of survival. As such we must be ready to organize raids into neighboring territories to gather food, equipment and resources.\n\nWe currently have £loot_icon  [?loot_amount|Y0] loot."
+ russian_raiding_category:0 "약탈과 노획"
+ russian_raiding_category_desc:0 "슬프게도 약탈은 러시아에서의 삶의 일부입니다. 또한 매우 인정하고싶지 않지만, 우리의 몇 안되는 생존수단중 하나입니다. 따라서 우린 식량과 장비와 자원을 획득하기 위해 이웃 지역의 약탈을 조직할 수 있어야 합니다\n\nWe currently have £loot_icon  [?loot_amount|Y0] loot."
 
- russia_prepare_raid:0 "Prepare Raid Against [FROM.GetNameDef]"
- russia_prepare_raid_desc:0 "They have £loot_icon  [?FROM.loot_amount|Y0] loot"
- russia_initiate_raid:0 "Initiate Raid Against [FROM.GetNameDef]"
+ russia_prepare_raid:0 "습격 준비 [FROM.GetNameDef]"
+ russia_prepare_raid_desc:0 "그들은 £loot_icon  [?FROM.loot_amount|Y0] 만큼의 약탈품을 가지고 있습니다"
+ russia_initiate_raid:0 "습격 개시 [FROM.GetNameDef]"
  russia_initiate_raid_desc:0 "They have £loot_icon  [?FROM.loot_amount|Y0] loot"
  russia_raid_in_progress:0 "Raid In-Progress Against [FROM.GetNameDef]"
  russia_raid_in_progress_desc:0 "They have £loot_icon  [?FROM.loot_amount|Y0] loot"
  russia_scavenge_for_loot:0 "Scavenge for §YLoot§!"
  
- russia_spend_raid_loot_academic_base:0 "Build §YNew Schools§!"
- russia_spend_raid_loot_research_facilities:0 "Build §YNew Research Facilities§!"
- russia_spend_raid_loot_industrial_equipment:0 "Import §YNew Industrial Equipment§!"
- russia_spend_raid_loot_industrial_expertise:0 "Train §YNew Workers§!"
- russia_spend_raid_loot_agriculture:0 "Fund §YNew Agricultural Methods§!"
+ russia_spend_raid_loot_academic_base:0 "§Y새 학교§를 짓다"
+ russia_spend_raid_loot_research_facilities:0 "§Y새 연구시설§을 짓다"
+ russia_spend_raid_loot_industrial_equipment:0 "§Y새 산업장비§를 수입하다"
+ russia_spend_raid_loot_industrial_expertise:0 "§Y새 노동자§들을 훈련하다"
+ russia_spend_raid_loot_agriculture:0 "§Y새 농법§에 "
 
  #Coring
  RUS_coring_category:0 "Regional Integration"
